@@ -32,3 +32,9 @@ kmeans-pytorch==0.3
 gym==0.26.2
 ogb==1.3.6
 wandb==0.15.0
+```
+
+## Datasets
+
+[DMGC Data Repository](https://github.com/Uncnbb/DMGC_data)
+
