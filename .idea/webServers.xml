@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a339bc1d-77a5-43f6-bb32-362cbf85abf1" name="m3">
+        <fileTransfer accessType="SFTP" host="113.54.130.76" port="22" sshConfigId="6514e9cc-082f-43b0-81a9-cadce951fa56" sshConfig="m3@113.54.130.76:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c80d7022-dc9a-49a7-ac96-3881e8d37243" name="autodl">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="root@region-31.seetacloud.com" port="50783" sshConfigId="a9af65a6-78f9-44c8-a7c4-d26bb46cada8" sshConfig="root@root@region-31.seetacloud.com:50783 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
