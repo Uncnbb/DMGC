@@ -4,7 +4,7 @@
 This repository contains the **official source code** for the paper presented at **ACMMM 2025**.  
 If you find this repository useful to your research or work, it would be greatly appreciated if you could ⭐ star this repository. ❤️  
 
-Preprint (arXiv): [https://arxiv.org/pdf/2507.15253](https://arxiv.org/pdf/2507.15253)
+Preprint (arXiv): [https://arxiv.org/pdf/2507.15253](https://arxiv.org/pdf/2507.15253)  
 Published Version: [https://dl.acm.org/doi/pdf/10.1145/3746027.3755631](https://dl.acm.org/doi/pdf/10.1145/3746027.3755631)
 
 ---
